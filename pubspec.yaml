@@ -1,0 +1,66 @@
+name: weekly_flutter_challenge_5_music_player_ui
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  audioplayers: ^0.13.2
+  provider: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/music/Lav_-_standing_on_the_edge.mp3
+   - assets/music/The_Kyoto_Connection_-_09_-_Hachiko_The_Faithtful_Dog.mp3
+   - assets/music/Loveshadow_-_I_Used_to_Think.mp3
+   - assets/images/playlist_image_1.jpg
+   - assets/images/playlist_image_2.jpg
+   - assets/images/playlist_image_3.jpg
+   - assets/images/playlist_image_4.jpg
+   - assets/images/playlist_image_5.jpg
+   - assets/images/playlist_image_6.jpg
+   - assets/images/tracklist_image_1.jpg
+   - assets/images/tracklist_image_2.jpg
+   - assets/images/tracklist_image_3.jpg
+   - assets/images/tracklist_image_4.jpg
+   - assets/images/tracklist_image_5.jpg
+   - assets/images/tracklist_image_6.jpg
+   - assets/images/tracklist_image_7.jpg
+   - assets/images/tracklist_image_8.jpg
+   - assets/images/tracklist_image_9.jpg
+   - assets/images/tracklist_image_10.jpg
+   - assets/images/tracklist_image_11.jpg
+   - assets/images/tracklist_image_12.jpg
+   - assets/images/tracklist_image_13.jpg
+   - assets/images/tracklist_image_14.jpg
+   - assets/images/tracklist_image_15.jpg
+   - assets/images/tracklist_image_16.jpg
+   - assets/images/tracklist_image_17.jpg
+   - assets/images/tracklist_image_18.jpg
+   - assets/images/tracklist_image_19.jpg
+   - assets/images/tracklist_image_20.jpg
+   - assets/images/tracklist_image_21.jpg
+   - assets/images/tracklist_image_22.jpg
+   - assets/images/tracklist_image_23.jpg
+   - assets/images/tracklist_image_24.jpg
+   - assets/images/tracklist_image_25.jpg
+  fonts:
+    - family: Ubuntu
+      fonts:
+        - asset: assets/fonts/Ubuntu-Regular.ttf
+        - asset: assets/fonts/Ubuntu-Light.ttf
+          weight: 100
+        - asset: assets/fonts/Ubuntu-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Ubuntu-Bold.ttf
+          weight: 700
